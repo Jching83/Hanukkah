@@ -1,0 +1,65 @@
+/* hanukkah.css coded by Jason Ching */
+body {
+  background: #22577E;
+  color: white;
+}
+
+.nav-item {
+  margin: 0 18px;
+}
+
+
+.intro {
+  position: absolute;
+  left: 68%;
+  bottom: 68%;
+  right: 6%;
+}
+
+.history {
+  padding-right: 35%;
+  margin-left: 1%;
+  margin-right: 10%;
+}
+
+.early {
+  padding-top: 3.5%;
+  padding-left: 50%;
+  margin-right: 1%;
+}
+
+.celebrate {
+  margin-top: 8%;
+  margin-right: 25%;
+  margin-left: 1%;
+}
+
+.food {
+  margin-left: 25%;
+  margin-top: 3%;
+  margin-right: 1%;
+}
+
+.img-history {
+  position: absolute;
+  max-width: 50%;
+  height: auto;
+  padding-left: 70%;
+}
+
+.img-calendar {
+  position: absolute;
+  padding-left: 25%;
+}
+
+.img-celebration {
+  position: absolute;
+  margin-top: 5%;
+  margin-left: 76%;
+}
+
+.img-food{
+  position: absolute;
+  padding-bottom: 2%;
+  padding-left: 1%
+}
